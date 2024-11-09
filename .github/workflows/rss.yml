@@ -29,8 +29,8 @@ jobs:
         python main.py
     - name: Commit
       run: |
-        git config --global user.email 1129159201@qq.com
-        git config --global user.name rcy1314
+        git config --global user.email 791751568@qq.com
+        git config --global user.name adminlove520
         git add .
         git commit -m "Update caches" -a
 
